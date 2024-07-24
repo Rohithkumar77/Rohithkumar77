@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Kumar</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Quizapp**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **JavaScript,React,Next,Java(DSA)**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sunkesularohithkumar77@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fact **I Play pubg a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
