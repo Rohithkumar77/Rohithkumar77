@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohith Kumar</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Software Engineer @Accenture</h3>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **ENDUR**
 
 - 🌱 I’m currently learning **JavaScript,React,Next,Java(DSA)**
 
-- 👯 I’m looking to collaborate on **Front-End Developers**
-
-- 📫 How to reach me **sunkesularohithkumar77@gmail.com**
+- 📫 How to reach me **rohithkumar210603@gmail.com**
 
 - ⚡ Fact **I Play pubg a lot**
 
